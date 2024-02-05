@@ -32,6 +32,7 @@ Nossos clientes potenciais são pessoas que desejem utilizar o sistema para orga
  * **[Issue #5](https://github.com/Projeto-Engenharia-de-Software-LC/.github/issues/5) - REQ5:** O sistema deve permitir a visualização dos melhores investimentos para seu perfil de investidor no período de acesso, exemplo: FII's recomendados para o perfil Moderado de Fulano (onde fulano é o usuário)
  * **[Issue #6](https://github.com/Projeto-Engenharia-de-Software-LC/.github/issues/6) - REQ6:** O sistema deve permitir a criação de objetivos financeiros. exemplo: Ao clicar deve-se nomear uma meta e categorizá-la com as categorias prévias disponíveis ou uma categoria custom do usuário, informando também qual o valor pretendido a ser economizado para a meta, prazo, quanto já possui e uma breve descrição.
  </details >
+
 ## Integrantes do grupo 
 <details open>
  <summary>...</summary>
@@ -48,3 +49,8 @@ Nossos clientes potenciais são pessoas que desejem utilizar o sistema para orga
  * Juliana Venâncio - juliana.venancio@ufrpe.br
 </details>
 
+## Links
+
+* **[Arquitetura do projeto](https://github.com/Projeto-Engenharia-de-Software-LC/arquitetura-do-projeto/blob/main/Documentacao_Microarquitetura_e_Macroarquitetura.pdf) - Arquitetura:** Micro e Macroarquitetura do sistema.
+* **[KANBAN](https://github.com/orgs/Projeto-Engenharia-de-Software-LC/projects/2) - Kanban:** Planejamento de sprints.
+* **[Repositório do sistema](https://github.com/Projeto-Engenharia-de-Software-LC/gerenciador_financeiro_pessoal) - Sistema:** Gerenciador Financeiro Pessoal
