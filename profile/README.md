@@ -37,7 +37,6 @@ Nossos clientes potenciais são pessoas que desejem utilizar o sistema para orga
 <details open>
  <summary>...</summary>
 
- * Endryo Pablo - endryo.pablo.vieita@gmail.com
  * Lucas Henrique - lucas.hlsilva@ufrpe.br
  * Walquiria Santos - walquiriawps@gmail.com
  * Rubson Hebrain de Lima Freire - limarubson@hotmail.com
@@ -46,7 +45,6 @@ Nossos clientes potenciais são pessoas que desejem utilizar o sistema para orga
  * Fernando santos - nandobink6@gmail.com
  * Lucas Emmanuel - lucas.emmanuel@ufrpe.br
  * Vitor Emmanoel - vitor.emmanoel@ufrpe.br
- * Juliana Venâncio - juliana.venancio@ufrpe.br
 </details>
 
 ## Links
